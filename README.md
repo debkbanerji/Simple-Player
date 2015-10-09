@@ -28,22 +28,22 @@ http://docs.rainmeter.net/manual/plugins/nowplaying
 Folders:
 Note: Only one skin from each Folder is intended to be loaded at a time
 
- - @resources
+ - @resources:
  Resource folder; does not contain any skins
 
- - Standard
+ - Standard:
  Contains regular music players that are intended to remain on the user's desktop
 
- - Taskbar
+ - Taskbar:
  Contains skins that are intended for use on the user's taskbar.
  These skins are intended for use with 1920x1080 displays and as such, they are 40 pixels high and 340 pixels wide
  These skins positions should be set to 'Stay topmost' so as to not get hidden behind the taskbar
 
- - Wallpaper Replacements
+ - Wallpaper Replacements:
  Contains skins that are intended to replace 1920x1080 wallpapers
  It is HIGHLY recommended that these skins are set to 'click through' with position 'on desktop'
 
- - Desktop Controls
+ - Desktop Controls:
  Contains skins intended to be used alongside those found in 'Wallpaper Replacements' on 1920x1080 displays
  Position should be set to 'on desktop'
  These should NOT be set to 'click through' or the buttons will not work
