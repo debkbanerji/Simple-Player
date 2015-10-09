@@ -1,6 +1,6 @@
 Simple Player
 
-A suite of rainmeter skins that function as music players for one's desktop.
+A suite of Rainmeter skins that function as music players for one's desktop.
 
 
 
