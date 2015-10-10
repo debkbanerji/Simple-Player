@@ -15,7 +15,7 @@ Note: Simple Player is an extension of Material Player, with similar functionali
 
 Google Material Design Resources: https://design.google.com/resources/
 
-Note: Though not all the icons are taken from Google's material design resources, some are modified versions of those provided by Google
+Note: Though not all of the icons are taken from Google's material design resources, some are modified versions of those provided by Google
 
 By default, the skins are set for use with Mediamonkey:
 http://www.mediamonkey.com/
